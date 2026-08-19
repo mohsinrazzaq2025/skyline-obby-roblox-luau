@@ -2,6 +2,14 @@
 
 Skyline Obby is a published Roblox obstacle-course experience built as a gameplay-programming portfolio project. It demonstrates server-authoritative game rules, per-player state, persistent progression, client/server RemoteEvent communication, responsive UI, multiplayer validation, and reusable obstacle systems.
 
+## Gameplay Preview
+
+![Skyline Obby coin collection gameplay](media/screenshots/coin-collection.png)
+
+| Full Obby Completion | Two-Player Multiplayer Test |
+| --- | --- |
+| ![Full obby completion](media/screenshots/full-completion.png) | ![Two-player multiplayer test](media/screenshots/multiplayer-test.png) |
+
 ## Live Project
 
 - [Play Skyline Obby on Roblox](https://www.roblox.com/games/73249354946869/Skyline-Obby)
